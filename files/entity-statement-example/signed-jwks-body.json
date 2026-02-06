@@ -1,0 +1,13 @@
+{
+  "iss": "https://example.com",
+  "sub": "https://example.com",
+  "iat": 1770336000,
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "tPyHKRF3ESEXa4Ec812HhLs4nU7fx7rGhjMOXBWgHIs5sm3Mb541y-xNf-2fZfXvF5uxa4i5qMlBazqzGFD_JyAqKKZjBUhhU9vnKPESTvWfOiZ79kmz4hS0E01m-P4cDse58WQ4zHIMV5uU_PoRbj17HzieY3o4FpwNfhu_7uuegD0Mm8_4MPdltyA5XZDALbKOznpX9UVJmL4YbkhKc29c6CVkMncFBov2oKAtoeJsDg9abf-IKweUfKQ8H-7rPZodwwS605QSeYwV4K-CPww-eL1IX7MJ6r6Foaq9T7OAXSc0L3HXEMW87rUSmcGfDpwwsrYOaV7VRjCIvrGuHQ",
+      "e": "AQAB",
+      "kid": "dihflwvjVQEuSNAKgcic1uWsFvU"
+    }
+  ]
+}

@@ -18,7 +18,9 @@
     - [3.4.1 OpenID Connect (OIDC)](#341-openid-connect-oidc)
     - [3.4.2 SAML](#342-saml)
 
-- [4. Tunnistus Python Sample Application](#4-tunnistus-python-sample-application)
+- [4. Examples](#4-examples)
+  - [4.1 Tunnistus Python Sample Application](#41-tunnistus-python-sample-application)
+  - [4.2 Sample Entity Statement](#42-sample-entity-statement)
 
 - [5. Questions and Answers on the Traficom announcement to e-services](#5-questions-and-answers-on-the-traficom-announcement-to-e-services)
 
@@ -110,9 +112,15 @@ Below are official documents and directives related to electronic identification
 > _Note: The interface descriptions are available in English only to ensure wide use and prevent interpretation differences._
 <br/><br/>
 
-## 4 Tunnistus Python Sample Application
+## 4 Examples
+
+### 4.1 Tunnistus Python Sample Application
 
 Sample application integration with Python: https://github.com/telia-oss/tunnistus-python-sample
+
+### 4.2 Sample Entity Statement
+
+Sample Entity Stament for relying party application: https://github.com/telia-oss/tunnistus/tree/main/files/entity-statement-example
 
 ## 5 Questions and Answers on the Traficom announcement to e-services
 
